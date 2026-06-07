@@ -72,7 +72,7 @@ java Main
 
 ## Author
 
-**Luis** | [GitHub: LAF06](https://github.com/LAF06)
+**Logan** | [GitHub: LAF06](https://github.com/LAF06)
 
 *First project in a series demonstrating progressive Java development — from core OOP fundamentals through advanced concepts.*
 
