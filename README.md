@@ -6,7 +6,7 @@ A console-based library management system built in Java, demonstrating core obje
 
 ## Overview
 
-This project simulates a real-world library system where books can be cataloged, searched, checked out, and returned by registered members. It was built from memory as a demonstration of fundamental Java OOP concepts.
+This project simulates a real-world library system where books can be cataloged, searched, checked out, and returned by registered members. It was built as a demonstration of fundamental Java OOP concepts.
 
 ---
 
